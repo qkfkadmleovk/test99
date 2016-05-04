@@ -1,0 +1,10 @@
+C:\Users\kms\documents\visual studio 2010\Projects\main\bin\Debug\main.exe
+C:\Users\kms\documents\visual studio 2010\Projects\main\bin\Debug\main.pdb
+C:\Users\kms\documents\visual studio 2010\Projects\main\obj\x86\Debug\main.Properties.Resources.resources
+C:\Users\kms\documents\visual studio 2010\Projects\main\obj\x86\Debug\main.csproj.GenerateResource.Cache
+C:\Users\kms\documents\visual studio 2010\Projects\main\obj\x86\Debug\main.exe
+C:\Users\kms\documents\visual studio 2010\Projects\main\obj\x86\Debug\main.pdb
+C:\Users\kms\documents\visual studio 2010\Projects\main\obj\x86\Debug\main.csprojResolveAssemblyReference.cache
+C:\Users\kms\documents\visual studio 2010\Projects\main\obj\x86\Debug\main.Form1.resources
+C:\Users\kms\documents\visual studio 2010\Projects\main\obj\x86\Debug\main.Form2.resources
+C:\Users\kms\documents\visual studio 2010\Projects\main\obj\x86\Debug\main.Form3.resources
